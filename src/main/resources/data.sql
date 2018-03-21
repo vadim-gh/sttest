@@ -1,0 +1,2 @@
+INSERT INTO accounts(id, code, balance) VALUES(1, '00000000000000000001', 1000);
+INSERT INTO accounts(id, code, balance) VALUES(2, '00000000000000000002', 2000);
